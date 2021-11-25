@@ -4,7 +4,10 @@ sections:
   - type: hero_section
     title: This Is A Big Hero Headline asdf a
     subtitle: Optional hero section subtitle
-    content: >-
+    content: >
+      asdf a
+
+
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
