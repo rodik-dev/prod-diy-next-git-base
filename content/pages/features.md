@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Explore Features 134 23
-    subtitle: Features Page Demo
+    subtitle: Features Page Demo qwe rwe
     background_color: primary
   - type: features_section
     features:
