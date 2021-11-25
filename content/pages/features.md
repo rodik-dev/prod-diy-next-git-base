@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Explore Features 1
+    title: 'Explore Features 1 '
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
